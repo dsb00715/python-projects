@@ -1,2 +1,2 @@
 # python-projects
-I'd be creating projects based on the udemy course : "Master Python by building 100 projects in 100 days - Dr. Angela Yu"
+"Repository containing 100 Python projects created as part of the Udemy course 'Master Python by Building 100 Projects in 100 Days' by Dr. Angela Yu. Each project is designed to enhance Python skills through hands-on practice and real-world applications."
